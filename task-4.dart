@@ -3,7 +3,7 @@
 // question 1
 
 // void main() {
-//   int c = sum(5, 3);
+//   int c = sum(6, 3);
 //   print("The sum is: $c"); 
 // }
 
